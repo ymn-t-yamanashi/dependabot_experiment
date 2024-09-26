@@ -21,7 +21,7 @@ defmodule DependabotExperiment.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:nx, "~> 0.8.0"},
+      {:nx, "~> 0.9.0"},
       {:evision, "~> 0.2.9"},
       {:logger_json, "~> 6.2.1"}
       # {:dep_from_hexpm, "~> 0.3.0"},
